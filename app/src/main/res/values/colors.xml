@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#46e1bd</color>
+    <color name="colorPrimaryDark">#46e1bd</color>
+    <color name="colorAccent">#46e1bd</color>
+    <color name="login_white">#fff</color>
+    <color name="button_background">#123312</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_grey">#3f3f3f</color>
+    <color name="text_color_grey_light">#c1c1c1</color>
+    <color name="grey_drag_background">#ededed</color>
+
+    <color name="text_color_register_hint">#b4b4b4</color>
+    <color name="textcolor_edittext">#8a8a8a</color>
+    <color name="textcolor_edittext_icons">#999999</color>
+    <color name="list_divider">#39beec</color>
+    <color name="profile_background">#fafafa</color>
+    <color name="welcome_background">#262626</color>
+    <color name="black">#000000</color>
+    <color name="frag_welcome_block">#f7f7f7</color>
+    <color name="background_grey">#ffffff</color>
+    <color name="product_name_color">#3ABEEE</color>
+    <color name="product_detail_color">#ABABAB</color>
+    <color name="swipleft">#A8CA00</color>
+    <color name="tick_red">#b4190d</color>
+    <color name="tick_green">#b0cf00</color>
+    <color name="swiperight">#3BBFEF</color>
+    <color name="background_color_list">#F2F2F2</color>
+    <color name="backgroud_myCart_list">#F6F6F6</color>
+    <color name="quantity_txt_color">#1A1A1A</color>
+    <color name="seekBar_arc_color">#FDFDFD</color>
+    <color name="txt_tittle_color">#313131</color>
+    <color name="red_dark">#b93a3a</color>
+    <color name="red">#f72e2e</color>
+    <color name="red_bright">#ff3838</color>
+    <color name="menu_icon_color">#8a8a8a</color>
+    <color name="message_color">#656565</color>
+    <color name="grey_text_color">#FF797979</color>
+    <color name="walkthrough_color">#5C5C5C</color>
+    <color name="btn_pressed_color">#4ec3ee</color>
+    <color name="ripple_effect_color">#f2f2f2</color>
+    <color name="slide_menu_icon_color"> #Ffffff</color>
+    <color name="prod_avail_color">#45BF03</color>
+</resources>

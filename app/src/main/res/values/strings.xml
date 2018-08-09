@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NY Times Most Popular Articles</string>
+    <string name="yes">Yes</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="validate_password">enter password</string>
+    <string name="alert_valid_email">Enter valid Email</string>
+    <string name="validate_email">Enter Email</string>
+    <string name="server_error" />
+    <string name="no_internet">No internet connection available</string>
+    <string name="txt_terms_condition"><![CDATA[Terms & Condition]]></string>
+    <string name="txt_privacy_policy" />
+    <string name="hint_email_fp">Enter your email address</string>
+    <string name="submit">Submit</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="txt_terms">Terms</string>
+    <string name="txt_privacy">Privacy</string>
+    <string name="enter_email_fp">Enter email</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search</string>
+    <string name="search_title">Search</string>
+    <string name="no_artilce">No article</string>
+</resources>
